@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "22.8.0",
+  "description": "simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjsomani/Personal-Website.git"
+  },
+  "author": "Yashika Somani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yjsomani/Personal-Website/issues"
+  },
+  "homepage": "https://github.com/yjsomani/Personal-Website#readme"
+}
